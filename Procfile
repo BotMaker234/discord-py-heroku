@@ -1,1 +1,1 @@
-worker: python bot/stonoga.py
+worker: python stonoga.py
